@@ -15,7 +15,7 @@ Repository for my work on the analysis of the CO2 emissions all around the world
 - Used Pandas to clean and verify the data. 
 - Used Matplotlib  and Seaborn to create visualizations.
 - [Go to the Jupyter Notebook.](https://github.com/AnityaGan9urde/CO2-Emissions-Analysis/blob/main/CO2_analysis.ipynb)
-### Insights:
+### 💡Insights:
 - Countries with a constant rise in their CO2 emissions have a better and more stable economy.
 - The countries with a irregularity in thier CO2 output in general are poorer and have an unstable environment within the country, politically and economically.
 - Developed countries with already having reached their maximum CO2 output and improved regulations on CO2 emissions have started to show a downward trend. Some of these countries have started to go green by using renewable sources more and hence their carbon footprint is reducing.
